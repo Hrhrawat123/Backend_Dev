@@ -1,0 +1,14 @@
+computer---------->server
+computer is the part of the backend where you send requests
+server made using express which will listen the request computer and based on that 
+request it provide response to the corresponding request
+request listen and response to the computer
+
+/home_route
+/login
+/signup
+expresss is a package
+request and respone is important
+get post request in browser
+//go through to the official documentation of express js
+it's a web framework
